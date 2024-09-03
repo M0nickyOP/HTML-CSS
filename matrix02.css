@@ -1,0 +1,41 @@
+body {
+    background: url(imagens/fundo_matrix.jpg);
+    font-family: Verdana;
+}
+.l {
+    background-image: url(imagens/logo_matrix.jpg);
+
+}
+.h {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.e {
+    margin-left: 60px;
+    margin-right: 10px;
+}
+.m {
+    background-color: black;
+    padding-bottom: 27%;
+    color: lightgreen;
+    text-align: justify;
+    margin-left: 20%;
+    margin-top: 80px;
+    width: 1000px;
+    height: 30px;
+
+}   
+.icon {
+    float: left;
+    margin-right: 10px;
+}
+.d {
+    float: left;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.f {
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 8px;
+}
