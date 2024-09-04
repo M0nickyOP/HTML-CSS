@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D I V S</title>
+    <link rel="stylesheet" type="text/css" href="Atividade_DIVS.css">
+</head>
+<body class="body">
+    <div>
+        <div class="div1">
+            <img src="imagem01.png" class="img1">
+            <div class="div3">1</div>
+            <div class="div4">Lógica 101</div>
+            <div class="div5">🕗 103 min</div>
+        </div>
+
+        <div class="div2">
+            <img src="imagem02.png" class="img1">
+            <div class="div3">2</div>
+            <div class="div4-2">
+                Criando uma<br>
+                máquina virtual<br>
+                Ubuntu
+            </div>
+            <div class="div5-2">🕗 57 min</div>
+        </div>
+
+        <div class="div2">
+            <img src="imagem03.png" class="img1">
+            <div class="div3">3</div>
+            <div class="div4">Ubuntu 101</div>
+            <div class="div5">🕗 139 min</div>
+        </div>
+
+        <div class="div2-3">
+            <img src="imagem04.png" class="img1">
+            <div class="div3">4</div>
+            <div class="div4">Python 101</div>
+            <div class="div5">🕗 565 min</div>
+        </div>
+    </div>
+
+    <div class="ass">
+        <img src="user.png">
+        <div class="ass-2">
+            <span class="ola">Olá,<span class="ola-2"> Assinante</span></span>
+            <br>
+            <br>
+            Assinante
+            <hr class="hr">
+            <br>
+            <br>
+            <span class="final">Você não tem nada no Feed</span>
+    </div>
+    </div>
+</body>
+</html>
