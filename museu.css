@@ -1,0 +1,37 @@
+body {
+    box-sizing: border-box
+}
+.t {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 1%;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+
+}
+
+.l {
+    margin-right: 81%;
+
+}
+nav {
+    margin-right: 5px;
+}
+img {
+    width: 280px;
+
+}
+.main-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap:20px;
+    row-gap: 50px;
+   padding-top: 200px;
+   height: 85%;
+
+
+}
